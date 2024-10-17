@@ -62,7 +62,7 @@ global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel
 global.scan = "https://hitdev-qr.onrender.com";
 
 
-global.SESSION_ID = process.env.SESSION_ID || ""
+global.SESSION_ID = process.env.SESSION_ID || "Prince~R0hAhQRI#oa1MQISNb4uQAByuZup2waBxTJFxaldqX_rx9jG9WZc"
 module.exports = {
 
   menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: HITDEV-MD Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
